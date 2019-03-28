@@ -1,5 +1,7 @@
 ## D.W.I. Privacy Policy
 
+* [Portuguese version](/privacyPolicy/dwi-privacy_policy-pt.md)
+
 TCSolution takes your private information very seriously.
 
 This policy shows our privacy practices describing how we treat information that is entered by you or collected when you use D.W.I. (Days Without Incidents)
