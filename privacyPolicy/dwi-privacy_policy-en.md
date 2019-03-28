@@ -1,6 +1,6 @@
 ## D.W.I. Privacy Policy
 
-* [Portuguese version](/privacyPolicy/dwi-privacy_policy-pt.md)
+* [Portuguese version](/dwi-privacy_policy-pt.md)
 
 TCSolution takes your private information very seriously.
 
