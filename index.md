@@ -19,4 +19,4 @@ You can also define a title to describe the incident you are keep tracking
 
 ##### Support or Contact
 
-Send a email to: [dev.tcsolution@gmail.com](mailto:dev.tcsolution@gmail.com)
+Send an email to: [dev.tcsolution@gmail.com](mailto:dev.tcsolution@gmail.com)
