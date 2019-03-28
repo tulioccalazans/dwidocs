@@ -1,7 +1,5 @@
 ## D.W.I. (Days Without Incidents)
 
-DWI : Days Without Incidents  
-
 Keep track of days since the last time an incident occurred.  
 DWI is easy to use and has no ads annoying you.  
 
