@@ -1,5 +1,11 @@
 ## Welcome to GitHub Pages
 
+Privacy Policy
+
+[English version](/privacyPolicy/dwi-privacy_policy-en.md)
+[Portuguese version](/privacyPolicy/dwi-privacy_policy-pt.md)
+
+
 You can use the [editor on GitHub](https://github.com/techtcs/dwidocs/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
