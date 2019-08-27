@@ -6,8 +6,6 @@
 
 DWI is easy to use and has no ads annoying you.  
 
-#### App
-
 Download the app on [Play Store: D.W.I.](https://play.google.com/store/apps/details?id=tech.tcsolution.dwi)  
 
 People are using the app for various purposes:  
