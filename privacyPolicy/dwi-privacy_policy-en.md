@@ -2,9 +2,9 @@
 
 * [Portuguese version](../privacyPolicy/dwi-privacy_policy-pt.html)
 
-TCSolution takes your private information very seriously.
+TC Solution takes your private information very seriously.
 
-This policy shows our privacy practices describing how we treat information that is entered by you or collected when you use D.W.I. (Days Without Incidents)
+This policy shows our privacy practices describing how we treat information that is entered by you or collected when you use D.W.I. (Days counter - Days Without Incidents)
 By using the app, you consent to collect, transfer, manipulate, storage, disclosure, and other uses of your information as described in this Privacy Policy. Please read carefully.
 
 ### What this Privacy Policy covers

@@ -2,9 +2,9 @@
 
 * [English version](../privacyPolicy/dwi-privacy_policy-en.md)  
 
-A TCSolution leva muito a sério as suas informações privadas.
+A TC Solution leva muito a sério as suas informações privadas.
 
-Esta política mostra nossas práticas de privacidade descrevendo como tratamos às informações que são inseridas por você ou coletadas quando você utiliza o D.W.I. (Days Without Incidents)
+Esta política mostra nossas práticas de privacidade descrevendo como tratamos às informações que são inseridas por você ou coletadas quando você utiliza o D.W.I. (Contador de dias - Dias Sem Incidentes)
 Ao utilizar o aplicativo, você estará consentindo a coleta, transferência, manipulação, armazenamento, divulgação e outros usos de suas informações como descrito nesta Política de Privacidade. Por favor, leia cuidadosamente.
 
 ### O que esta Política de Privacidade cobre

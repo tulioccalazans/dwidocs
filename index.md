@@ -1,14 +1,29 @@
-## D.W.I. (Days Without Incidents)
+## D.W.I. (Days counter - Days Without Incidents)
 
-Keep track of days since the last time an incident occurred.  
+🎯 Follow up your progress avoiding an incident  
+💪 Count your success days  
+🙌 Feel motivated to reach your goal  
+
 DWI is easy to use and has no ads annoying you.  
 
+#### App
+
+Download the app on [Play Store: D.W.I.](https://play.google.com/store/apps/details?id=tech.tcsolution.dwi)  
+
+People are using the app for various purposes:  
+
+🍺 Days without alcohol  
+🚭 Days without smoking  
+🍔 Days without eating junk food  
+
 #### Features  
-* Amount of days since the last incident  
-* Accrued amount of days without incident before previous reset  
-* Max (record) amount of days without incidents ever registered  
+
+★ Amount of days since the last incident  
+★ Max (record) amount of days without incidents ever registered  
+★ History of your progress and your Hall of fame  
+★ Win levels and trophies achieving your goal  
  
-You can also define a title to describe the incident you are keep tracking
+You can also define a title to describe your goal or the incident you want to avoid.  
 
 ##### Privacy Policy
 
