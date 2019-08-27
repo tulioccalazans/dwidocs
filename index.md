@@ -6,8 +6,6 @@
 
 DWI is easy to use and has no ads annoying you.  
 
-Download the app on [Play Store: D.W.I.](https://play.google.com/store/apps/details?id=tech.tcsolution.dwi)  
-
 People are using the app for various purposes:  
 
 🍺 Days without alcohol  
@@ -23,11 +21,13 @@ People are using the app for various purposes:
  
 You can also define a title to describe your goal or the incident you want to avoid.  
 
-##### Privacy Policy
+Download the app on [Play Store](https://play.google.com/store/apps/details?id=tech.tcsolution.dwi)  
+
+#### Privacy Policy
 
 * [English version](/privacyPolicy/dwi-privacy_policy-en.md)  
 * [Portuguese version](/privacyPolicy/dwi-privacy_policy-pt.md)
 
-##### Support or Contact
+#### Support or Contact
 
 Send an email to: [dev.tcsolution@gmail.com](mailto:dev.tcsolution@gmail.com)
