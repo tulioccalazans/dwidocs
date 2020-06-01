@@ -15,7 +15,7 @@ This Privacy Policy does not apply to third party practices that do not belong t
 
 ### Access data and tools usage
 
-Access data and data usage for D.U.I. can be collected and stored. We use this information for future analysis in order to improve our services, develop new services and especially improve and personalize your experience using the D.W.I app.
+Access data and data usage for D.W.I. can be collected and stored. We use this information for future analysis in order to improve our services, develop new services and especially improve and personalize your experience using the D.W.I app.
 
 ### With whom your information is shared
 
